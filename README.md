@@ -1,2 +1,3 @@
-# LeetCode-May-Challenge
-My solutions to daily leetcode problems from May challenge.
+# LeetCode May Challenge
+
+### May/1 - *First Bad Version*
