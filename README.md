@@ -4,3 +4,4 @@
 ### May/2 - Jewels and Stones
 ### May/3 - Ransom Note
 ### May/4 - Number Complement
+### May/5 - First Unique Character in a String
