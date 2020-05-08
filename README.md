@@ -7,3 +7,4 @@
 ### May/5 - First Unique Character in a String
 ### May/6 - Majority Element
 ### May/7 - Cousins in Binary Tree
+### May/8 - Check If It Is a Straight Line
