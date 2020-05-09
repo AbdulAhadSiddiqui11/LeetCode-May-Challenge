@@ -8,3 +8,4 @@
 ### May/6 - Majority Element
 ### May/7 - Cousins in Binary Tree
 ### May/8 - Check If It Is a Straight Line
+### May/9 - Valid Perfect Square
