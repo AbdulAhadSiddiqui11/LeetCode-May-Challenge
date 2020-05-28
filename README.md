@@ -26,3 +26,4 @@
 ### May/24 - Construct Binary Search Tree from Preorder Traversal
 ### May/25 - Uncrossed Lines 
 ### May/26 - Contiguous Array
+### May/27 - Possible Bipartition
