@@ -15,7 +15,7 @@ class Solution {
         int[] group = new int[N];
 
         for (int i = 0; i < N; i++) {
-
+  
             if (group[i] == 0 && !dfs(graph, group, i, 1)) {
 
                 return false;
